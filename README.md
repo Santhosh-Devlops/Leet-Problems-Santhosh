@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0859-buddy-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-design-parking-system](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1603-design-parking-system) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
 ## Linked List
 |  |
 | ------- |
