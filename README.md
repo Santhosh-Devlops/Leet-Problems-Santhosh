@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
