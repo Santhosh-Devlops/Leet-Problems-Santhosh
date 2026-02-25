@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0415-add-strings) |
+| [0633-sum-of-square-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
