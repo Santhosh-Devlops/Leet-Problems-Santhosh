@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3719-longest-balanced-subarray-i) |
 | [3842-toggle-light-bulbs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3843-first-element-with-unique-frequency) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3379-transformed-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3842-toggle-light-bulbs) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Memoization
 |  |
 | ------- |
