@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
 |  |
 | ------- |
