@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0415-add-strings) |
 ## Memoization
 |  |
 | ------- |
