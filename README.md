@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0032-longest-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0225-implement-stack-using-queues) |
 ## String Matching
 |  |
 | ------- |
@@ -204,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
