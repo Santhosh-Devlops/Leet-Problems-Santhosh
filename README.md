@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0074-search-a-2d-matrix) |
 | [0912-sort-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
