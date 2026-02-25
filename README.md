@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3379-transformed-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3379-transformed-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3379-transformed-array) |
 ## Memoization
 |  |
 | ------- |
