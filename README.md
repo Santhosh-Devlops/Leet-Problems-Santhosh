@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1528-shuffle-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1678-goal-parser-interpretation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1678-goal-parser-interpretation) |
 ## Sliding Window
 |  |
 | ------- |
