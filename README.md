@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3719-longest-balanced-subarray-i) |
 | [3842-toggle-light-bulbs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3842-toggle-light-bulbs) |
+| [3843-first-element-with-unique-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2716-minimize-string-length) |
 | [3719-longest-balanced-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3719-longest-balanced-subarray-i) |
 | [3842-toggle-light-bulbs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3842-toggle-light-bulbs) |
+| [3843-first-element-with-unique-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3843-first-element-with-unique-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-design-parking-system](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1603-design-parking-system) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
+| [3843-first-element-with-unique-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3843-first-element-with-unique-frequency) |
 ## Linked List
 |  |
 | ------- |
