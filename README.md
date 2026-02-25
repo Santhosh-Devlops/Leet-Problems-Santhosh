@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1470-shuffle-the-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1528-shuffle-string) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0338-counting-bits) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Trie
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Quickselect
 |  |
 | ------- |
