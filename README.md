@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
