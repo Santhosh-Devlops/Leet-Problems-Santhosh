@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1528-shuffle-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1678-goal-parser-interpretation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0696-count-binary-substrings) |
+| [1768-merge-strings-alternately](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
