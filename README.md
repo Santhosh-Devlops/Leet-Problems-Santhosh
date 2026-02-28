@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0989-add-to-array-form-of-integer) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0696-count-binary-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2396-strictly-palindromic-number) |
