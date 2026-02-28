@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0977-squares-of-a-sorted-array) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0225-implement-stack-using-queues) |
+| [0682-baseball-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0682-baseball-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String Matching
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0682-baseball-game) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1603-design-parking-system](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1603-design-parking-system) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
