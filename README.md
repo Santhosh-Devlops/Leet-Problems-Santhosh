@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0415-add-strings) |
 | [0696-count-binary-substrings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0709-to-lower-case) |
 | [0859-buddy-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0859-buddy-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1108-defanging-an-ip-address) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
