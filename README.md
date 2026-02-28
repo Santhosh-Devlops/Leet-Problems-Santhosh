@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1528-shuffle-string) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1672-richest-customer-wealth](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
 | ------- |
