@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2235-add-two-integers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2396-strictly-palindromic-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Recursion
