@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
+| [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3024-type-of-triangle) |
 | [3842-toggle-light-bulbs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3842-toggle-light-bulbs) |
 ## Heap (Priority Queue)
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0912-sort-an-array) |
+| [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
 | [3379-transformed-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3379-transformed-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3842-toggle-light-bulbs) |
