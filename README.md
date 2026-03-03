@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1603-design-parking-system](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1603-design-parking-system) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1920-build-array-from-permutation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
