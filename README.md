@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0231-power-of-two) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1108-defanging-an-ip-address) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1528-shuffle-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1528-shuffle-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1678-goal-parser-interpretation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0682-baseball-game) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1603-design-parking-system](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1603-design-parking-system) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1929-concatenation-of-array) |
