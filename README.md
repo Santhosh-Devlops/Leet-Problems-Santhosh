@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
