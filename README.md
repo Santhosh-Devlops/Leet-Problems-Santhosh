@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0832-flipping-an-image) |
 | [0912-sort-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0976-largest-perimeter-triangle) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0696-count-binary-substrings) |
+| [0832-flipping-an-image](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1768-merge-strings-alternately) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0832-flipping-an-image) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1603-design-parking-system](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1603-design-parking-system) |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0832-flipping-an-image) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1672-richest-customer-wealth) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
