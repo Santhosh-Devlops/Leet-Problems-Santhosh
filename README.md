@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0643-maximum-average-subarray-i) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Binary Search
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0338-counting-bits) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Trie
 |  |
 | ------- |
