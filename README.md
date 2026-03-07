@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0633-sum-of-square-numbers) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
