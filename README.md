@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0657-robot-return-to-origin) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0645-set-mismatch) |
