@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2032-two-out-of-three](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1763-longest-nice-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1980-find-unique-binary-string) |
+| [2032-two-out-of-three](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2032-two-out-of-three) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1720-decode-xored-array) |
 | [1763-longest-nice-substring](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1763-longest-nice-substring) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2032-two-out-of-three](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2032-two-out-of-three) |
 ## Simulation
 |  |
 | ------- |
