@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1980-find-unique-binary-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1980-find-unique-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1980-find-unique-binary-string) |
 ## Stack
 |  |
 | ------- |
