@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1763-longest-nice-substring](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1763-longest-nice-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1980-find-unique-binary-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0973-k-closest-points-to-origin) |
+| [1763-longest-nice-substring](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1763-longest-nice-substring) |
 | [3719-longest-balanced-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1763-longest-nice-substring](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0643-maximum-average-subarray-i) |
+| [1763-longest-nice-substring](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1763-longest-nice-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Binary Search
 |  |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1720-decode-xored-array) |
+| [1763-longest-nice-substring](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1763-longest-nice-substring) |
 ## Simulation
 |  |
 | ------- |
