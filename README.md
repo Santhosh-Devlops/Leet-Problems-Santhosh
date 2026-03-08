@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1720-decode-xored-array) |
 ## Simulation
 |  |
 | ------- |
