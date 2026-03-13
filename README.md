@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3861-minimum-capacity-box](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
 |  |
