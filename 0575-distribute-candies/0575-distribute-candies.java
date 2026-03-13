@@ -2,9 +2,9 @@ class Solution {
     public int distributeCandies(int[] candyType) {
         int count=0;
         HashSet<Integer> hs=new HashSet<>();
-        for(int i=0;i<candyType.length;i++){
-            if(!hs.contains(candyType[i])){
-                hs.add(candyType[i]);
+        for(int num:candyType){
+            if(!hs.contains(num)){
+                hs.add(num);
             }
 
         }
