@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3379-transformed-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3379-transformed-array) |
 | [3452-sum-of-good-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3452-sum-of-good-numbers) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2206-divide-array-into-equal-pairs) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Simulation
 |  |
 | ------- |
