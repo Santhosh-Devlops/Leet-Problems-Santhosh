@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0052-n-queens-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0494-target-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1980-find-unique-binary-string) |
