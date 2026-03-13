@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2942-find-words-containing-character) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Function
 |  |
 | ------- |
