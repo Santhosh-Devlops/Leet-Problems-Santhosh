@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0066-plus-one) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0494-target-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1863-sum-of-all-subset-xor-totals) |
