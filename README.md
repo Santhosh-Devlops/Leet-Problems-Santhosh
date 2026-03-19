@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2716-minimize-string-length](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2716-minimize-string-length) |
 | [2942-find-words-containing-character](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3019-number-of-changing-keys) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 ## Trie
 |  |
 | ------- |
