@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0066-plus-one) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0169-majority-element) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0494-target-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1863-sum-of-all-subset-xor-totals) |
