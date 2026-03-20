@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1980-find-unique-binary-string) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
 | [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
 |  |
 | ------- |
