@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2716-minimize-string-length](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2716-minimize-string-length) |
 | [2942-find-words-containing-character](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3019-number-of-changing-keys) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Search
 |  |
 | ------- |
