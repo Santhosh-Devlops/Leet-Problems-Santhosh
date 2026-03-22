@@ -643,4 +643,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0706-design-hashmap) |
+## Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
