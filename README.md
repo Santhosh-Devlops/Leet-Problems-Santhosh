@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2942-find-words-containing-character) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3024-type-of-triangle) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3024-type-of-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3379-transformed-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3379-transformed-array) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3546-equal-sum-grid-partition-i) |
