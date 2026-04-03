@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2848-points-that-intersect-with-cars](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2848-points-that-intersect-with-cars) |
 | [2942-find-words-containing-character](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
 | [2716-minimize-string-length](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2716-minimize-string-length) |
+| [2848-points-that-intersect-with-cars](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2848-points-that-intersect-with-cars) |
 | [3719-longest-balanced-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3719-longest-balanced-subarray-i) |
 | [3842-toggle-light-bulbs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3843-first-element-with-unique-frequency) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1991-find-the-middle-index-in-array) |
+| [2848-points-that-intersect-with-cars](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2848-points-that-intersect-with-cars) |
 | [3028-ant-on-the-boundary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3028-ant-on-the-boundary) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
