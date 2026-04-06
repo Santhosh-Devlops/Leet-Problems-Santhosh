@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2716-minimize-string-length) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2848-points-that-intersect-with-cars) |
+| [3713-longest-balanced-substring-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3719-longest-balanced-subarray-i) |
 | [3842-toggle-light-bulbs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3843-first-element-with-unique-frequency) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
+| [3713-longest-balanced-substring-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3713-longest-balanced-substring-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3843-first-element-with-unique-frequency) |
 ## Linked List
 |  |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3019-number-of-changing-keys) |
 | [3136-valid-word](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3136-valid-word) |
 | [3280-convert-date-to-binary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3280-convert-date-to-binary) |
+| [3713-longest-balanced-substring-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3713-longest-balanced-substring-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
 |  |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3546-equal-sum-grid-partition-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Function
 |  |
 | ------- |
