@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0706-design-hashmap) |
 | [0832-flipping-an-image](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0867-transpose-matrix) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0892-surface-area-of-3d-shapes) |
 | [0912-sort-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0973-k-closest-points-to-origin) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0892-surface-area-of-3d-shapes) |
 | [0973-k-closest-points-to-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0989-add-to-array-form-of-integer) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0867-transpose-matrix) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0892-surface-area-of-3d-shapes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0892-surface-area-of-3d-shapes) |
 | [0973-k-closest-points-to-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1266-minimum-time-visiting-all-points) |
 ## Database
