@@ -711,19 +711,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0112-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0112-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0112-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
