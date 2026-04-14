@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0682-baseball-game) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0706-design-hashmap) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0709-to-lower-case) |
