@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3280-convert-date-to-binary) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
