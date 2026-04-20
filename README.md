@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2032-two-out-of-three) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Quickselect
 |  |
