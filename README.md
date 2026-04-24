@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0485-max-consecutive-ones) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0389-find-the-difference) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0561-array-partition) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0633-sum-of-square-numbers) |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0633-sum-of-square-numbers) |
