@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
+| [2833-furthest-point-from-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3713-longest-balanced-substring-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3843-first-element-with-unique-frequency) |
 ## Linked List
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2716-minimize-string-length](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2716-minimize-string-length) |
+| [2833-furthest-point-from-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2942-find-words-containing-character](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2942-find-words-containing-character) |
