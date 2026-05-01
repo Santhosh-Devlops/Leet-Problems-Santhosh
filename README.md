@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0455-assign-cookies) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0415-add-strings) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0338-counting-bits) |
+| [0396-rotate-function](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0494-target-sum) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1653-minimum-deletions-to-make-string-balanced) |
