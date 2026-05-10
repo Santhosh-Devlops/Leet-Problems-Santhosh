@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2716-minimize-string-length) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2418-sort-the-people) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0973-k-closest-points-to-origin) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3028-ant-on-the-boundary) |
@@ -680,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Quickselect
 |  |
