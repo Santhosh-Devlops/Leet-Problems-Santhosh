@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3028-ant-on-the-boundary) |
