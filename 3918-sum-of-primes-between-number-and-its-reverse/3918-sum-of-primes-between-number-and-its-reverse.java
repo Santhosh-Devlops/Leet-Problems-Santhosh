@@ -5,8 +5,10 @@ class Solution {
         String r=s.reverse().toString();
         int rev=Integer.parseInt(r);
         boolean flag=true;
+        int min=Math.min(n,rev);
+        int max=Math.max(n,rev);
         int sum=0;
-        for(int i=Math.min(n,rev);i<=Math.max(n,rev);i++){
+        for(int i=min;i<=max;i++){
             if(primes(i)){
                 sum+=i;
             }
