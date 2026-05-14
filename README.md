@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2784-check-if-array-is-good](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2784-check-if-array-is-good) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2848-points-that-intersect-with-cars](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2848-points-that-intersect-with-cars) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2716-minimize-string-length) |
+| [2784-check-if-array-is-good](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2848-points-that-intersect-with-cars) |
 | [3713-longest-balanced-substring-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3713-longest-balanced-substring-i) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2418-sort-the-people) |
+| [2784-check-if-array-is-good](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3024-type-of-triangle) |
