@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0575-distribute-candies) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0657-robot-return-to-origin) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0643-maximum-average-subarray-i) |
