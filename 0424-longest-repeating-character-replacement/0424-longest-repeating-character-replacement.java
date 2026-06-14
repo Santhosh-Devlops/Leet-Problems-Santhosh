@@ -1,13 +1,13 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        HashMap<Character,Integer> hs=new HashMap<>();
+        int[] abc=new int[26];
         int l=0,max=0,ans=0;
         for(int r=0;r<s.length();r++){
-            hs.put(s.charAt(r),hs.getOrDefault(s.charAt(r),0)+1);
-            max=Math.max(max,hs.get(s.charAt(r)));
+            abc[s.charAt(r)-'A']++;
+            max=Math.max(max,abc[s.charAt(r)-'A']);
             //System.out.println(s.charAt(r)+" "+max);
             while(((r-l+1)-max)>k){
-                hs.put(s.charAt(l),hs.get(s.charAt(l))-1);
+                abc[s.charAt(l)-'A']--;
                 l++;
             }
             ans=Math.max(ans,r-l+1);
