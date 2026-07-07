@@ -1,19 +1,20 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        if(n==0) return 0;
-        long a=0;
-        StringBuilder s=new StringBuilder();
+        if(n<10) return (long)(n*n);
+        long res=0;
+        HashSet<Integer> h=new HashSet<>();
         int sum=0;
-        int temp=n;
-        while(temp>0){
-            int r=temp%10;
+        String st="";
+        while(n!=0){
+            int r=n%10;
             if(r!=0){
                 sum+=r;
-                s.append(r);
-                System.out.println(s);
+                st+=r;
             }
-            temp=temp/10;
+            n=n/10;
         }
-        return Long.parseLong(s.reverse().toString())*sum;
+        String st1=new StringBuilder(st).reverse().toString();
+
+        return (long)(Long.parseLong(st1)*sum);
     }
 }
