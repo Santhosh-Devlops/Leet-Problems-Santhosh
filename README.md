@@ -792,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -819,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0617-merge-two-binary-trees) |
 ## Monotonic Stack
 |  |
