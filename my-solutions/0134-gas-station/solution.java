@@ -1,22 +1,22 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
-        int sum=0;
-        int csum=0;
-        int index=0;
+        int tg=0,tc=0;
         for(int i=0;i<gas.length;i++){
-            int diff=(gas[i]-cost[i]);
-            sum+=diff;
-            csum+=diff;
-            if(csum<0){ 
-                csum=0; 
-                index=i+1;
-            }
+            tg+=gas[i];
+            tc+=cost[i];
         }
-        if(sum>=0){
-            return index;
-        }
-        else{
+        if(tg<tc){
             return -1;
         }
+        int g=0;
+        int idx=0;
+        for(int i=0;i<gas.length;i++){
+            g+=gas[i]-cost[i];
+            if(g<0){
+                g=0;
+                idx=i+1;
+            }
+        }
+        return idx;
     }
 }
