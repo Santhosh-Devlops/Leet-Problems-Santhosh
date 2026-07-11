@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3379-transformed-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3379-transformed-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0617-merge-two-binary-trees) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -838,4 +842,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0996-number-of-squareful-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0996-number-of-squareful-arrays) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
