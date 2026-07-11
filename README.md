@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0989-add-to-array-form-of-integer) |
+| [0996-number-of-squareful-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0996-number-of-squareful-arrays) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1266-minimum-time-visiting-all-points) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0706-design-hashmap) |
 | [0859-buddy-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0859-buddy-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0996-number-of-squareful-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0996-number-of-squareful-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1512-number-of-good-pairs) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0989-add-to-array-form-of-integer) |
+| [0996-number-of-squareful-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0996-number-of-squareful-arrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0509-fibonacci-number) |
+| [0996-number-of-squareful-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0996-number-of-squareful-arrays) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -577,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0494-target-sum) |
+| [0996-number-of-squareful-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0996-number-of-squareful-arrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1980-find-unique-binary-string) |
 ## Stack
@@ -618,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0868-binary-gap) |
+| [0996-number-of-squareful-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0996-number-of-squareful-arrays) |
 | [1009-complement-of-base-10-integer](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -828,4 +834,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0042-trapping-rain-water) |
+## Bitmask
+|  |
+| ------- |
+| [0996-number-of-squareful-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0996-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
