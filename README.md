@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3546-equal-sum-grid-partition-i) |
 | [3637-trionic-array-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3643-flip-square-submatrix-vertically) |
+| [3663-find-the-least-frequent-digit](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3663-find-the-least-frequent-digit) |
 | [3719-longest-balanced-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3842-toggle-light-bulbs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3842-toggle-light-bulbs) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2848-points-that-intersect-with-cars) |
+| [3663-find-the-least-frequent-digit](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
 | [2833-furthest-point-from-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2833-furthest-point-from-origin) |
+| [3663-find-the-least-frequent-digit](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3713-longest-balanced-substring-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3843-first-element-with-unique-frequency) |
 ## Linked List
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3663-find-the-least-frequent-digit](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3783-mirror-distance-of-an-integer) |
