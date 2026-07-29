@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3783-mirror-distance-of-an-integer) |
