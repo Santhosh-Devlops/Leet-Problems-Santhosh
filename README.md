@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0706-design-hashmap) |
 | [0832-flipping-an-image](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0877-stone-game) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0892-surface-area-of-3d-shapes) |
 | [0912-sort-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0877-stone-game) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0892-surface-area-of-3d-shapes) |
 | [0973-k-closest-points-to-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0976-largest-perimeter-triangle) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0877-stone-game) |
 | [0996-number-of-squareful-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0996-number-of-squareful-arrays) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -868,4 +871,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
