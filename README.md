@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0892-surface-area-of-3d-shapes) |
 | [0973-k-closest-points-to-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1266-minimum-time-visiting-all-points) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Database
 |  |
 | ------- |
