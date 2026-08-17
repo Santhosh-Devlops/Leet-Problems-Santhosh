@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2848-points-that-intersect-with-cars) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3146-permutation-difference-between-two-strings) |
 | [3663-find-the-least-frequent-digit](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3719-longest-balanced-subarray-i) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3019-number-of-changing-keys) |
 | [3136-valid-word](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3136-valid-word) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3280-convert-date-to-binary) |
 | [3713-longest-balanced-substring-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3713-longest-balanced-substring-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
