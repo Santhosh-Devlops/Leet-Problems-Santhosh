@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2418-sort-the-people) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2206-divide-array-into-equal-pairs) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Simulation
 |  |
