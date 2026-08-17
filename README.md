@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1550-three-consecutive-odds) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1572-matrix-diagonal-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1652-defuse-the-bomb) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0892-surface-area-of-3d-shapes) |
+| [1572-matrix-diagonal-sum](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
