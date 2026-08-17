@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2288-apply-discount-to-prices](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2288-apply-discount-to-prices) |
+| [2315-count-asterisks](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2315-count-asterisks) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2452-words-within-two-edits-of-dictionary) |
