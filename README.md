@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3452-sum-of-good-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3546-equal-sum-grid-partition-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3637-trionic-array-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3643-flip-square-submatrix-vertically) |
 | [3663-find-the-least-frequent-digit](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3663-find-the-least-frequent-digit) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2848-points-that-intersect-with-cars) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3146-permutation-difference-between-two-strings) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3719-longest-balanced-subarray-i) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2248-intersection-of-multiple-arrays) |
 | [2833-furthest-point-from-origin](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2833-furthest-point-from-origin) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3713-longest-balanced-substring-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3843-first-element-with-unique-frequency) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3516-find-closest-person) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -788,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Brainteaser
 |  |
 | ------- |
