@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2974-minimum-number-game](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3024-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3536-maximum-product-of-two-digits) |
 | [3842-toggle-light-bulbs](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3842-toggle-light-bulbs) |
 ## Heap (Priority Queue)
 |  |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Santhosh-Devlops/Leet-Problems-Santhosh/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
